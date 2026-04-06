@@ -1,0 +1,19 @@
+h1 {
+  color: brown;
+  margin: 10px;
+}
+.post {
+  background-color: blanchedalmond;
+}
+.user {
+  font-style: italic;
+}
+
+div {
+  line-height: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+div + a {
+  margin-left: 10px;
+}
