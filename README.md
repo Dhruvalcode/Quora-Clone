@@ -30,6 +30,7 @@ Users can **create, view, edit, and delete posts**. This project demonstrates a 
 ---
 
 ## Project Structure
+```
 project-root/
 │
 ├── public/ # CSS, images, and static assets
@@ -41,7 +42,7 @@ project-root/
 ├── package.json
 ├── package-lock.json
 └── app.js # Main server file
-
+```
 
 ---
 
